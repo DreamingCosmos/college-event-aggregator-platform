@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "PORT=8000 next dev --turbopack",
-    "vercel-build": "next dev --turbopack",
+    "vercel-build": "npx next build",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
@@ -46,7 +46,7 @@
     "lucide-react": "^0.509.0",
     "next": "15.3.2",
     "next-themes": "^0.4.6",
-    "react": "^19.0.0",
+    "react": "^19.1.0",
     "react-day-picker": "^8.10.1",
     "react-dom": "^19.0.0",
     "react-hook-form": "^7.56.3",
