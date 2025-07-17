@@ -149,6 +149,6 @@ Built with ❤️ for the college tech community
 
 You can deploy this Next.js app live easily using [Vercel](https://vercel.com/), the creators of Next.js.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/DreamingCosmos/college-event-aggregator&project-name=college-event-aggregator&repository-name=college-event-aggregator)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/DreamingCosmos/college-event-aggregator-platform&project-name=eventwhen-devdockbounty&repository-name=college-event-aggregator)
 
 Just click the button above, connect your GitHub account, and follow the prompts to deploy your own live version of this platform instantly.
