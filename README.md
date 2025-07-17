@@ -143,3 +143,12 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 Built with ❤️ for the college tech community
+
+
+## 🚀 Deploy
+
+You can deploy this Next.js app live easily using [Vercel](https://vercel.com/), the creators of Next.js.
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/your-repo/college-event-aggregator&project-name=college-event-aggregator&repository-name=college-event-aggregator)
+
+Just click the button above, connect your GitHub account, and follow the prompts to deploy your own live version of this platform instantly.
